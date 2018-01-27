@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/assets"/><source path="/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/build-types/debug/assets"/></dataSet></merger>

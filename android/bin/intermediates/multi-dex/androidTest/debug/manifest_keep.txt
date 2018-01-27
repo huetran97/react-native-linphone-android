@@ -1,3 +1,0 @@
-# view AndroidManifest.xml #generated:67
--keep class android.support.test.runner.AndroidJUnitRunner { <init>(...); }
-
