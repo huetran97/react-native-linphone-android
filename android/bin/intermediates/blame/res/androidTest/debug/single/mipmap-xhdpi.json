@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/mipmap-xhdpi/ic_launcher_background.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/mipmap-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/mipmap-xhdpi/ic_launcher_round.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/mipmap-xhdpi/ic_launcher_foreground.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    }
+]

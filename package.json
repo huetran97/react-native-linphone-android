@@ -1,0 +1,16 @@
+{
+	"name": "react-native-linphone",
+	"version": "1.0.3",
+	"main": "index.js",
+	"keywords": [
+		"react-native-linphone"
+	],
+	"author": "Tam Tam",
+	"license": "ISC",
+	"description": "Linphone is a free VoIP and video softphone based on the SIP protocol.",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/huetran97/react-native-linphone-android"
+	}
+
+}

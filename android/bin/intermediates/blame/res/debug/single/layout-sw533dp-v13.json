@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/debug/layout-sw533dp-v13/assistant_codec_downloader.xml",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/layout-sw533dp/assistant_codec_downloader.xml"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/debug/layout-sw533dp-v13/main.xml",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/layout-sw533dp/main.xml"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/debug/layout-sw533dp-v13/dialer.xml",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/layout-sw533dp/dialer.xml"
+    }
+]

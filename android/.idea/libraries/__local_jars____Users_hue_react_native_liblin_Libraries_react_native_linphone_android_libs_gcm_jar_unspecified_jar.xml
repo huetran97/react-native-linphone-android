@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="__local_jars__:/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/libs/gcm.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/gcm.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

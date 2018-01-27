@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/release/mipmap-anydpi-v26/ic_launcher_round.xml",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/release/mipmap-anydpi-v26/ic_launcher.xml",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]

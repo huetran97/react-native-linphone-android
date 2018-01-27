@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/release/raw/hold.mkv",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/raw/hold.mkv"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/release/raw/lpconfig.xsd",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/raw/lpconfig.xsd"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/release/raw/assistant_create.rc",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/raw/assistant_create.rc"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/release/raw/oldphone_mono.wav",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/raw/oldphone_mono.wav"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/release/raw/linphonerc_default",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/raw/linphonerc_default"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/release/raw/notes_of_the_optimistic.mkv",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/raw/notes_of_the_optimistic.mkv"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/release/raw/ringback.wav",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/raw/ringback.wav"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/release/raw/linphonerc_factory",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/raw/linphonerc_factory"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/release/raw/rootca.pem",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/raw/rootca.pem"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/release/raw/incoming_chat.wav",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/raw/incoming_chat.wav"
+    }
+]

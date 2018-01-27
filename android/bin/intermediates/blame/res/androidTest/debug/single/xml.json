@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/xml/syncadapter.xml",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/xml/syncadapter.xml"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/xml/authenticator.xml",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/xml/authenticator.xml"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/xml/account_preferences.xml",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/xml/account_preferences.xml"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/xml/contacts.xml",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/xml/contacts.xml"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/xml/preferences.xml",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/xml/provider_paths.xml",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/xml/provider_paths.xml"
+    }
+]

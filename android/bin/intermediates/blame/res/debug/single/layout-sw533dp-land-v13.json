@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/debug/layout-sw533dp-land-v13/assistant_account_creation.xml",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/layout-sw533dp-land/assistant_account_creation.xml"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/debug/layout-sw533dp-land-v13/assistant_linphone_login.xml",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/layout-sw533dp-land/assistant_linphone_login.xml"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/debug/layout-sw533dp-land-v13/assistant_codec_downloader.xml",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/layout-sw533dp-land/assistant_codec_downloader.xml"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/debug/layout-sw533dp-land-v13/dialer.xml",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/layout-sw533dp-land/dialer.xml"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/debug/layout-sw533dp-land-v13/assistant_welcome.xml",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/layout-sw533dp-land/assistant_welcome.xml"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/debug/layout-sw533dp-land-v13/call_incoming.xml",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/layout-sw533dp-land/call_incoming.xml"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/debug/layout-sw533dp-land-v13/main.xml",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/layout-sw533dp-land/main.xml"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/debug/layout-sw533dp-land-v13/call_outgoing.xml",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/layout-sw533dp-land/call_outgoing.xml"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/debug/layout-sw533dp-land-v13/assistant_login.xml",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/layout-sw533dp-land/assistant_login.xml"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/debug/layout-sw533dp-land-v13/call.xml",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/layout-sw533dp-land/call.xml"
+    }
+]

@@ -1,0 +1,958 @@
+[
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/pause_big_default.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/pause_big_default.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/history_all_selected.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/history_all_selected.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/chat_add.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/chat_add.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_list_pressed_holo_light.9.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xhdpi/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/chat_attachment_over.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/chat_attachment_over.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/resizable_confirm_delete_button.9.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/resizable_confirm_delete_button.9.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/options_selected.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/options_selected.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/camera_switch_over.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/camera_switch_over.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/call_add.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/call_add.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/delete_field_over.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/delete_field_over.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/numpad_star.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/numpad_star.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/pause_small_over_selected.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/pause_small_over_selected.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/backspace_over.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/backspace_over.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/pause_big_over_selected.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/pause_big_over_selected.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/route_bluetooth_selected.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/route_bluetooth_selected.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/linphone_user.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/linphone_user.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/micro_default.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/micro_default.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/quit_default.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/quit_default.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/add_field_over.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/add_field_over.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/numpad_hash_over.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/numpad_hash_over.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/avatar_mask_border.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/avatar_mask_border.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/chat_file_message.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/chat_file_message.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/call_start_body_over.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/call_start_body_over.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/speaker_default.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/speaker_default.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/list_details_over.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/list_details_over.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/delete.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/delete.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xhdpi/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/chat_attachment_default.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/chat_attachment_default.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/resizable_assistant_button.9.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/resizable_assistant_button.9.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/quit_over.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/quit_over.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xhdpi/abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/resizable_textfield.9.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/resizable_textfield.9.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/chat_message_inprogress.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/chat_message_inprogress.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/call_back.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/call_back.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/security_pending.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/security_pending.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/dialer_alt_back.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/dialer_alt_back.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/chat_start_body_disabled.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/chat_start_body_disabled.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/voicemail.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/voicemail.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/micro_selected.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/micro_selected.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/route_speaker_selected.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/route_speaker_selected.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xhdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/chat_list_indicator.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/chat_list_indicator.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_list_pressed_holo_dark.9.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xhdpi/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/call_start_body_disabled.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/call_start_body_disabled.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/info.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/info.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/call_incoming.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/call_incoming.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/delete_field_default.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/delete_field_default.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/clean_field_default.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/clean_field_default.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/topbar_videocall_notification.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/topbar_videocall_notification.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/route_bluetooth.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/route_bluetooth.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/status_away.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/status_away.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/avatar_chat_mask_outgoing.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/avatar_chat_mask_outgoing.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/resizable_assistant_button_over.9.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/resizable_assistant_button_over.9.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xhdpi/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/edit_list_disabled.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/edit_list_disabled.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/contact_add_disabled.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/contact_add_disabled.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/numpad_0.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/numpad_0.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xhdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/deselect_all.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/deselect_all.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/numpad_9.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/numpad_9.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/led_disconnected.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/led_disconnected.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xhdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/status_available_phone.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/status_available_phone.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/select_all.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/select_all.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/list_details_default.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/list_details_default.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/checkbox_checked.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/checkbox_checked.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/contacts_all_selected.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/contacts_all_selected.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/routes_default.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/routes_default.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/status_disconnected.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/status_disconnected.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/contacts_sip_selected.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/contacts_sip_selected.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/fast_scroll_default.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/fast_scroll_default.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/linphone_logo_orange.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/linphone_logo_orange.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xhdpi/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/chat_send_default.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/chat_send_default.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/resizable_chat_bubble_incoming.9.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/resizable_chat_bubble_incoming.9.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/numpad_star_over.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/numpad_star_over.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_popup_background_mtrl_mult.9.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xhdpi/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/resizable_textfield_error.9.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/resizable_textfield_error.9.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/numpad_0_over.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/numpad_0_over.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/pause_small_disabled.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/pause_small_disabled.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/micro_disabled.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/micro_disabled.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/numpad_7_over.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/numpad_7_over.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xhdpi/abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/call_quality_indicator_1.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/call_quality_indicator_1.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/contacts_all_default.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/contacts_all_default.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/call_start_body_default.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/call_start_body_default.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/conference_exit_default.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/conference_exit_default.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/avatar.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/avatar.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/chat_message_delivered.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/chat_message_delivered.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/topbar_call_notification.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/topbar_call_notification.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/chat_delivered.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/chat_delivered.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/call_quality_indicator_0.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/call_quality_indicator_0.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/call_outgoing.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/call_outgoing.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/call_transfer.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/call_transfer.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/numpad_1_over.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/numpad_1_over.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/waiting_time.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/waiting_time.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/add_field_default.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/add_field_default.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/camera_switch_disabled.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/camera_switch_disabled.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/contact_add.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/contact_add.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/numpad_2.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/numpad_2.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/status_available.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/status_available.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/valid.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/valid.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/resizable_assistant_button_disabled.9.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/resizable_assistant_button_disabled.9.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/camera_switch_default.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/camera_switch_default.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/chat_attachment.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/chat_attachment.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/clean_field_over.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/clean_field_over.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xhdpi/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_list_divider_mtrl_alpha.9.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xhdpi/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/avatar_chat_mask.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/avatar_chat_mask.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/numpad_1.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/numpad_1.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/status_busy.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/status_busy.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xhdpi/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/dialer_background.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/dialer_background.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/topbar_chat_notification.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/topbar_chat_notification.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/call_status_incoming.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/call_status_incoming.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/lime_ko.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/lime_ko.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/checkbox_unchecked.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/checkbox_unchecked.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/backspace_disabled.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/backspace_disabled.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/options_disabled.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/options_disabled.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/numpad_hash.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/numpad_hash.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/numpad_7.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/numpad_7.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/pause_big_disabled.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/pause_big_disabled.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/footer_chat.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/footer_chat.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/avatar_mask.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/avatar_mask.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/speaker_selected.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/speaker_selected.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/contacts_sip_default.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/contacts_sip_default.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/numpad_6_over.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/numpad_6_over.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/delete_disabled.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/delete_disabled.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/security_ok.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/security_ok.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/splashscreen.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/splashscreen.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/chat_message_not_delivered.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/chat_message_not_delivered.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/options_transfer_call.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/options_transfer_call.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xhdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/backspace_default.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/backspace_default.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xhdpi/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/camera_selected.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/camera_selected.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/chat_unsecure.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/chat_unsecure.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/resizable_cancel_button.9.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/resizable_cancel_button.9.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/pause_small_default.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/pause_small_default.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xhdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/call_alt_back.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/call_alt_back.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/valid_disabled.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/valid_disabled.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/edit.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/edit.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/route_earpiece_selected.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/route_earpiece_selected.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/numpad_3_over.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/numpad_3_over.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/status_available_desktop.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/status_available_desktop.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/arrow_accept.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/arrow_accept.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/chat_send_over.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/chat_send_over.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_list_focused_holo.9.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xhdpi/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xhdpi/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/status_away_phone.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/status_away_phone.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/history_all_default.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/history_all_default.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/call_video_start.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/call_video_start.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/led_inprogress.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/led_inprogress.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xhdpi/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xhdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/camera_disabled.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/camera_disabled.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/fast_scroll_over.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/fast_scroll_over.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/call_status_missed.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/call_status_missed.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/route_speaker.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/route_speaker.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/numpad_8.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/numpad_8.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/numpad_4_over.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/numpad_4_over.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/options_transfer_call_disabled.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/options_transfer_call_disabled.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/routes_selected.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/routes_selected.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/led_connected.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/led_connected.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/status_busy_desktop.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/status_busy_desktop.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xhdpi/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/status_disconnected_desktop.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/status_disconnected_desktop.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/numpad_5_over.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/numpad_5_over.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/chat_error.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/chat_error.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/speaker_disabled.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/speaker_disabled.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xhdpi/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/numpad_2_over.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/numpad_2_over.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/footer_history.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/footer_history.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/linphone_notification_icon.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/linphone_notification_icon.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/security_ko.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/security_ko.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/cancel_edit.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/cancel_edit.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/contact.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/contact.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/edit_list.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/edit_list.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/arrow_hangup.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/arrow_hangup.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/led_error.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/led_error.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xhdpi/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/topbar_avatar.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/topbar_avatar.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/call_quality_indicator_2.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/call_quality_indicator_2.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/chat_read.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/chat_read.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/numpad_6.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/numpad_6.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/numpad_3.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/numpad_3.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/dialer_back.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/dialer_back.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/footer_dialer.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/footer_dialer.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/status_disconnected_phone.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/status_disconnected_phone.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/call_hangup.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/call_hangup.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/call_alt_start.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/call_alt_start.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/options_add_call.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/options_add_call.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xhdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/call_missed.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/call_missed.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/back.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/back.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/menu.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/menu.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/numpad_4.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/numpad_4.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_ic_clear_mtrl_alpha.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xhdpi/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/footer_contacts.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/footer_contacts.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/history_missed_selected.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/history_missed_selected.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/resizable_chat_bubble_outgoing.9.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/resizable_chat_bubble_outgoing.9.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/numpad_5.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/numpad_5.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/chat_secure.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/chat_secure.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xhdpi/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/options_start_conference.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/options_start_conference.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/chat_start_body_over.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/chat_start_body_over.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xhdpi/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/call_audio_start.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/call_audio_start.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/numpad_8_over.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/numpad_8_over.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/call_quality_indicator_3.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/call_quality_indicator_3.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/linphone_logo.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/linphone_logo.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_btn_check_to_on_mtrl_015.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xhdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xhdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/options_default.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/options_default.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/camera_default.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/camera_default.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_list_longpressed_holo.9.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xhdpi/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/options_start_conference_disabled.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/options_start_conference_disabled.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/call_quality_indicator_4.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/call_quality_indicator_4.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/route_earpiece.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/route_earpiece.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/status_busy_phone.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/status_busy_phone.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/chat_start_body_default.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/chat_start_body_default.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/history_chat_indicator.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/history_chat_indicator.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/numpad_9_over.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/numpad_9_over.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xhdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xhdpi/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xhdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/options_add_call_disabled.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/options_add_call_disabled.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xhdpi/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/conference_start.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/conference_start.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/status_away_desktop.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/status_away_desktop.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xhdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/chat_picture_over.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/chat_picture_over.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/history_missed_default.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/history_missed_default.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/call_status_outgoing.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/call_status_outgoing.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_ic_search_api_mtrl_alpha.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xhdpi/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/menu_disabled.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/menu_disabled.png"
+    },
+    {
+        "merged": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/bin/intermediates/res/merged/androidTest/debug/drawable-xhdpi/conference_exit_over.png",
+        "source": "/Users/hue/react-native/liblin/Libraries/react-native-linphone/android/res/drawable-xhdpi/conference_exit_over.png"
+    }
+]
